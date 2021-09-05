@@ -1,0 +1,11 @@
+export { default as Amazon } from "./Amazon";
+export { default as Facebook } from "./Facebook";
+export { default as SoundCloud } from "./SoundCloud";
+export { default as Twitter } from "./Twitter";
+export { default as Apple } from "./Apple";
+export { default as Spotify } from "./Spotify";
+export { default as Instagram } from "./Instagram";
+export { default as Youtube } from "./Youtube";
+export { default as Play } from "./Play";
+export { default as Pause } from "./Pause";
+export { default as Add } from "./Add";

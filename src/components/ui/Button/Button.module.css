@@ -1,0 +1,36 @@
+.root {
+  @apply;
+}
+
+.root:hover {
+  @apply;
+}
+
+.root:focus {
+  @apply outline-none;
+}
+
+.loading {
+  @apply;
+}
+
+.primary {
+  @apply;
+}
+
+.secondary {
+  @apply;
+}
+
+.tertiary:hover {
+  @apply;
+}
+
+.disabled,
+.disabled:hover {
+  @apply;
+  filter: grayscale(1);
+  -webkit-transform: translateZ(0);
+  -webkit-perspective: 1000;
+  -webkit-backface-visibility: hidden;
+}

@@ -1,0 +1,25 @@
+{
+  "title": "",
+  "description": "",
+  "openGraph": {
+    "title": "",
+    "description": "",
+    "type": "website",
+    "locale": "en_IE",
+    "url": "https://www.example.com/",
+    "site_name": "",
+    "images": [
+      {
+        "url": "/example.png",
+        "width": 800,
+        "height": 600,
+        "alt": ""
+      }
+    ]
+  },
+  "twitter": {
+    "handle": "",
+    "site": "",
+    "cardType": "summary_large_image"
+  }
+}
