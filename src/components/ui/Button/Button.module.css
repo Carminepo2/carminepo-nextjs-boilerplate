@@ -1,9 +1,9 @@
 .root {
-  @apply;
+  /* @apply; */
 }
 
 .root:hover {
-  @apply;
+  /* @apply; */
 }
 
 .root:focus {
@@ -11,24 +11,24 @@
 }
 
 .loading {
-  @apply;
+  /* @apply; */
 }
 
 .primary {
-  @apply;
+  /* @apply; */
 }
 
 .secondary {
-  @apply;
+  /* @apply; */
 }
 
 .tertiary:hover {
-  @apply;
+  /* @apply; */
 }
 
 .disabled,
 .disabled:hover {
-  @apply;
+  /* @apply; */
   filter: grayscale(1);
   -webkit-transform: translateZ(0);
   -webkit-perspective: 1000;

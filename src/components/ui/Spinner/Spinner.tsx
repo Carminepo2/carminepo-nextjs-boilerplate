@@ -1,4 +1,4 @@
-import s from './LoadingDots.module.css'
+import s from './Spinner.module.css'
 
 const LoadingDots: React.FC = () => {
   return (
