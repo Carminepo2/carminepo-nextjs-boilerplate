@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
-const withBundleAnalyzer = require("@next/bundle-analyzer")({
-  enabled: process.env.ANALYZE === "true",
-});
+const withBundleAnalyzer = require('@next/bundle-analyzer')({
+  enabled: process.env.ANALYZE === 'true',
+})
 module.exports = withBundleAnalyzer({
   // webpack: (config, { dev, isServer }) => {
   //   // Replace React with Preact only in client production build
@@ -16,7 +16,7 @@ module.exports = withBundleAnalyzer({
   //   return config;
   // },
   images: {
-    domains: ["img.youtube.com"],
+    domains: ['img.youtube.com'],
   },
   reactStrictMode: true,
-});
+})
